@@ -1,0 +1,31 @@
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#linea{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+p{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.H{
+    background-color: azure;
+    border: solid;
+}
