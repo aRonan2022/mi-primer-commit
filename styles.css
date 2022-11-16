@@ -27,5 +27,23 @@ p{
 
 .H{
     background-color: azure;
+    border: 2% ;
+}
+
+#img{
+    width: 10%;
+    height: 12%;
+}
+
+a{
+    background-color: white;
+    color: brown;
     border: solid;
+    text-align: center;
+    margin-bottom: 3%;
+    text-decoration: none;
+}
+
+#a1:hover{
+    color: blue;
 }
